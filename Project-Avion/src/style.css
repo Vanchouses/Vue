@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Clash+Display&family=Satoshi&display=swap');
+
+.main-div {
+    width: 1300px;
+    display: flex;
+    justify-self: center;
+    justify-content: center;
+}
+
+:root {
+  --font-primary: 'Clash Display', sans-serif;
+  --font-secondary: 'Satoshi', sans-serif;
+  --text-color: #2A254B;
+}
