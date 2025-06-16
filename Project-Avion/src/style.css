@@ -1,7 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Clash+Display&family=Satoshi&display=swap');
 
+* {
+  padding: 0;
+  margin: 0;
+}
 .main-div {
-    width: 1300px;
+    max-width: 80%;
     display: flex;
     justify-self: center;
     justify-content: center;
