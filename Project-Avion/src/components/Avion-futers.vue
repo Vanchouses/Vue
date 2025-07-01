@@ -42,6 +42,7 @@ const features = [
 .features {
   padding: 3rem 1rem;
   text-align: center;
+  margin-top: 80px;
 }
 
 .features__title {

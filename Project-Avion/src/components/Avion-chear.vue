@@ -38,6 +38,7 @@ import chairImage from '../assets/RightImage.svg';
   display: flex;
   flex-direction: column;
   justify-content: center;
+  font-family: 'Clash Display', sans-serif;
 }
 
 .headline {
