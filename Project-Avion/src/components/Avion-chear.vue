@@ -28,6 +28,8 @@ import chairImage from '../assets/RightImage.svg';
   flex-wrap: wrap;
   min-height: 500px;
   background: #ffffff;
+  margin-bottom: 80px;
+  margin-top: 40px;
 }
 
 .text-content {
